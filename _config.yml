@@ -26,6 +26,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://josephsawaya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC
+repository: josephsawaya/josephsawaya.github.io
 
 # Social media
 twitter_username:
