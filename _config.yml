@@ -62,6 +62,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 exclude:
+    - vendor/bundle/
     - README.md
 
 # Outputting
